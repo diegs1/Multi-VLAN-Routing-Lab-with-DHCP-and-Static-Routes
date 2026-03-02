@@ -1,1 +1,1 @@
-<img width="1559" height="657" alt="routing-dhcp-topology" src="https://github.com/user-attachments/assets/a6ab7323-7ba2-4e96-a649-16bce93cc490" />
+<img width="1568" height="651" alt="routing-dhcp-topology" src="https://github.com/user-attachments/assets/d3d444f7-3313-42cf-9d45-db0ef753b6cd" />
