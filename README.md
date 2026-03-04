@@ -1,15 +1,18 @@
 Implementation of a small enterprise-style campus network using VLAN segmentation, inter-VLAN routing, DHCP services, and static routing.
 
+
 Key Concepts
 - Inter-VLAN Routing
 - DHCP Configuration (HQ MLS) - Created separate DHCP pools per VLAN to automatically assign IP addresses and default gateways.
 - IP Static Routing - Configured manual ip route entries to define paths to external or remote networks.
+
 
 Result
 - All PCs successfully receive IP addresses via DHCP.
 - Devices within and across VLANs can communicate.
 - Static routes correctly forward traffic to remote networks.
 - End-to-end connectivity verified using ping and routing table checks.
+
 
 What I Learned
 - How DHCP pools must align correctly with VLAN gateways and subnet design.
